@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Adressbook/Adressbook.csproj" />
+  <Project Path="AdressbookConsole/AdressbookConsole.csproj" />
+  <Project Path="AdressbookLib/AdressbookLib.csproj" />
+</Solution>
